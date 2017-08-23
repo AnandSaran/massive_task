@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Massive "</string>
+    <string name="things_to_deliver">Things to Deliver</string>
+    <string name="MAP_API_KEY">AIzaSyAD2Z65175mrUnh1nmVMLRF4ctBvvdWkAg</string>
+    <string name="activity_image_trans">activity_image_trans</string>
+    <string name="activity_parent_trans">activity_parent_trans</string>
+    <string name="activity_text_trans">activity_text_trans</string>
+    <string name="delivery_details">Delivery Details</string>
+    <string name="data">data</string>
+
+</resources>
